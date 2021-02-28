@@ -1,3 +1,5 @@
+//２つ以上のキーの読み込みを行う場合
+
 //PORT
 #define KEY1PORT 2     //24pin
 #define KEY2PORT 3     //25pin
